@@ -15,9 +15,9 @@ Route::get('/', function () {
     return view('web.home');
 })->name('home');
 
-Route::get('/sobre', function () {
-    return view('web.sobre');
-})->name('sobre');
+Route::get('/galeria', function () {
+    return view('web.galeria');
+})->name('galeria');
 
 Route::get('/contato', function () {
     return view('web.contato');

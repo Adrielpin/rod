@@ -18,30 +18,36 @@
 	<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 	<style type="text/css">
-		nav{
-			background-color: rgba(255, 0, 0,0.10);
+		
+		body{
+			background-color: rgb(26, 26, 26);
 		}
 
-		.side-nav{
-			z-index: 9999
+		nav{
+			background-color: rgba(51,51, 51,0.10);
+		}
+
+		.slider{
+			z-index: -10
 		}
 
 	</style>
-
-
-</head>
-
-<body>
 
 	<script type="text/javascript">
 		$(document).ready(function (){
 			$(".button-collapse").sideNav();
 
-			$('.slider').slider();
 		});
 	</script>
+
+
+</head>
+
+
+<body>
 
 	@yield('menu');
 
 </body>
+
 </html>
