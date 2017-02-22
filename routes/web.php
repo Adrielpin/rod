@@ -12,5 +12,15 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('web.home');
+})->name('home');
+
+Route::get('/sobre', function () {
+    return view('web.sobre');
+})->name('sobre');
+
+Route::get('/contato', function () {
+    return view('web.contato');
+})->name('contato');
+
+Auth::routes();
