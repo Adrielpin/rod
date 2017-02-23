@@ -3,7 +3,7 @@
 <html lang="{{ config('app.locale') }}">
 <head>
 
-	<title>Bootstrap Example</title>
+	<title>ROD Fotografia</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
