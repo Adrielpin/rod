@@ -47,7 +47,7 @@
 
 <body>
 
-	@yield('menu');
+	@yield('menu')
 
 </body>
 
