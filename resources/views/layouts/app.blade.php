@@ -4,7 +4,10 @@
 <header>
 <nav>
     <div class="nav-wrapper container">
-      <a href="{{route('home')}}" class="brand-logo red-text">ROD fotografias</a>
+
+    {{-- {{ dd(Storage::files('img')) }} --}}
+
+      <a href="{{route('home')}}" class="brand-logo" style="padding: 10px"><img src="{{ Storage::url('img/logo.png') }}"></a>
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="{{route('home')}}">Quem somos</a></li>
@@ -23,12 +26,4 @@
 @yield('content')
 </section>
 </div>
-
-<footer>
-<div id="footer">
-  <div class="container">
-    <p class="text-muted white-text">&copy; <a href="http://www.rodfotografia.com .com"> rodfotografia.com</a> 2017</p>
-  </div>
-</div>
-</footer>
 @endsection

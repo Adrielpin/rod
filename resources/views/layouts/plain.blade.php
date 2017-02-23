@@ -21,10 +21,11 @@
 		
 		body{
 			background-color: rgb(26, 26, 26);
+			
 		}
 
 		nav{
-			background-color: rgba(51,51, 51,0.10);
+			background-color: rgba(51,51, 51,0.50);
 		}
 
 		.slider{
