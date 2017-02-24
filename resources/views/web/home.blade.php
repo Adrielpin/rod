@@ -24,6 +24,14 @@
      
     <li>
        <img src="https://drscdn.500px.org/photo/163469437/q%3D80_m%3D2000/ae526b6695a338c99f14970066e703c2">
+       <div class="caption down-align">
+        <h2>Fotografia</h2>
+        <h4 class="light grey-text text-lighten-3">de Natureza</h4>
+      </div>
+    </li>
+
+   <li>
+       <img src="https://drscdn.500px.org/photo/163469437/q%3D80_m%3D2000/ae526b6695a338c99f14970066e703c2">
        <div class="caption right-align">
         <h2>Fotografia</h2>
         <h4 class="light grey-text text-lighten-3">de Natureza</h4>
