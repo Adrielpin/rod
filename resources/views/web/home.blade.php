@@ -10,7 +10,7 @@
       <img src="https://drscdn.500px.org/photo/153054439/q%3D80_m%3D2000/9e791e687bc5925de9877fef1b9f30d9">
       <div class="caption center-align">
         <h2>Criatividade</h2>
-        <h4 class="light grey-text text-lighten-3">Inspiração e Arte<</h4>
+        <h4 class="light grey-text text-lighten-3">Inspiração e Arte</h4>
       </div>
     </li>
 
