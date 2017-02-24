@@ -4,6 +4,7 @@
 
 <div class="parallax-container">
 	<div class="parallax"><img src="https://drscdn.500px.org/photo/163469437/q%3D80_m%3D2000/ae526b6695a338c99f14970066e703c2"></div>
+	<span class="white-text">TESTE</span>
 </div>
 
 
