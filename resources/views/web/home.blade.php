@@ -7,10 +7,10 @@
   <ul class="slides">
 
     <li>
-      <img src="https://drscdn.500px.org/photo/137899643/q%3D80_m%3D2000/5aa38e529c2b02af70c7a5c578bf7c1b">
-      <div class="caption right-align">
+      <img src="https://drscdn.500px.org/photo/153054439/q%3D80_m%3D2000/9e791e687bc5925de9877fef1b9f30d9">
+      <div class="caption center-align">
         <h2>Inspiração e Arte</h2>
-        <h4 class="light grey-text text-lighten-3">Fotografia e Família</h4>
+        <h4 class="light grey-text text-lighten-3">Criatividade</h4>
       </div>
     </li>
 
@@ -24,9 +24,9 @@
      
     <li>
        <img src="https://drscdn.500px.org/photo/163469437/q%3D80_m%3D2000/ae526b6695a338c99f14970066e703c2">
-       <div class="caption center-align">
-        <h2>Natureza</h2>
-        <h4 class="light grey-text text-lighten-3">Criatividade</h4>
+       <div class="caption right-align">
+        <h2>de Natureza</h2>
+        <h4 class="light grey-text text-lighten-3">Fotografia</h4>
       </div>
     </li>
 
