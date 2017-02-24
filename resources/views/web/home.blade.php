@@ -18,7 +18,7 @@
       <img src="https://drscdn.500px.org/photo/141475619/q%3D80_m%3D1500/5c850baff4a8b91f65fb0a4d9192a6ea">
       <div class="caption left-align">
         <h2>Festa Infantil</h2>
-        <h4 class="light grey-text text-lighten-3">Captura e Emoção.</h4> 
+        <h4 class="light grey-text text-lighten-3">Captura e Emoção</h4> 
       </div>
     </li>
 
