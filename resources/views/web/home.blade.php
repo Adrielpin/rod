@@ -7,10 +7,10 @@
   <ul class="slides">
 
     <li>
-      <img src="https://drscdn.500px.org/photo/135972879/q%3D80_m%3D2000/ed28265a6a776f85ffe907703a3938e0">
+      <img src="https://drscdn.500px.org/photo/137899643/q%3D80_m%3D2000/5aa38e529c2b02af70c7a5c578bf7c1b">
       <div class="caption center-align">
         <h2>Inspiração e arte!</h2>
-        <h4 class="light grey-text text-lighten-3">Fotografia em família.</h4>
+        <h4 class="light grey-text text-lighten-3">Fotografia e família.</h4>
       </div>
     </li>
 
